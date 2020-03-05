@@ -75,11 +75,7 @@ GEM
     mini_portile2 (2.4.0)
     minitest (5.14.0)
     nio4r (2.5.2)
-<<<<<<< HEAD
     nokogiri (1.10.8)
-=======
-    nokogiri (1.10.9)
->>>>>>> fcda9bc9a9e8644785bb4fcbfda716604443c726
       mini_portile2 (~> 2.4.0)
     pry (0.12.2)
       coderay (~> 1.1.0)
@@ -168,8 +164,4 @@ DEPENDENCIES
   uglifier (>= 1.3.0)
 
 BUNDLED WITH
-<<<<<<< HEAD
    2.1.4
-=======
-   2.0.1
->>>>>>> fcda9bc9a9e8644785bb4fcbfda716604443c726
